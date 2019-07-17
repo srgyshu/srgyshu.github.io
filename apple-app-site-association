@@ -3,7 +3,7 @@
         "apps": [],
         "details": [{
             "appID": "K4YLP55576.com.foodient.whisk3",
-            "paths": ["/magic-sign-in", "/restore-password"]
+            "paths": ["/magic-sign-in", "/restore-password", "/?utm_medium=email-welcome*"]
         }]
     }
 }
